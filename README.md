@@ -77,6 +77,8 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+![snake gif](https://github.com/imahian/imahian/blob/output/github-snake-dark.svg)
+
 #### Software Skills
 
 
