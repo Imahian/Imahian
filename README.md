@@ -72,10 +72,11 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imahian/imahian/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imahian/imahian/main/dist/github-snake.svg" />
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/imahian/imahian/main/dist/github-snake.svg" />
 </picture>
+
 
 
 
