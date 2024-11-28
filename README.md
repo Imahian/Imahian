@@ -5,10 +5,7 @@
 [![Light Twitter follow badge](https://img.shields.io/twitter/follow/imahian?style=social#gh-light-mode-only)](https://twitter.com/imahian#gh-light-mode-only)
 [![Dark Twitter follow badge](https://img.shields.io/twitter/follow/imahian?style=dark#gh-dark-mode-only)](https://twitter.com/imahian#gh-dark-mode-only)
 <br>
-[![Light GitHub Stats Card](https://github-readme-stats.imahian.jp/api?username=imahian&show_icons=true&count_private=true&theme=light#gh-light-mode-only)](https://github.com/imahian#gh-light-mode-only)
-[![Dark GitHub Stats Card](https://github-readme-stats.imahian.jp/api?username=imahian&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/imahian#gh-dark-mode-only)
-[![Light Top Languages Card (Compact layout)](https://github-readme-stats.imahian.jp/api/top-langs/?username=imahian&langs_count=8&hide=batchfile,dockerfile,m4,makefile,shell&layout=compact&theme=light#gh-light-mode-only)](https://github.com/imahian#gh-light-mode-only)
-[![Dark Top Languages Card (Compact layout)](https://github-readme-stats.imahian.jp/api/top-langs/?username=imahian&langs_count=8&hide=batchfile,dockerfile,m4,makefile,shell&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/imahian#gh-dark-mode-only)
+
 [![Light GitHub Trophy](https://github-profile-trophy.vercel.app/?username=imahian&theme=light#gh-light-mode-only)](https://github.com/imahian#gh-light-mode-only)
 [![Dark GitHub Trophy](https://github-profile-trophy.vercel.app/?username=imahian&theme=discord#gh-dark-mode-only)](https://github.com/imahian#gh-dark-mode-only)
 
@@ -74,23 +71,14 @@
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imahian/imahian/main/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imahian/imahian/main/dist/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/imahian/imahian/main/dist/github-snake.svg" />
-</picture>
-![Snake](https://github.com/Platane/snk/blob/output/github-contribution-snake.svg)
-
-
-
-
-
 #### Software Skills
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imahian&show_icons=true&theme=shadow_green)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Imahian)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imahian&layout=compact)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Imahian&theme=shadow_green)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imahian&layout=compact&theme=shadow_green)
 
 
 
