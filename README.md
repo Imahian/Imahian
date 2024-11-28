@@ -1,15 +1,17 @@
+
+
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF73A&width=666&height=37&separator=%3C&lines=Feel+more;+Think+less%3CPain+is+inevitable;+suffering+optional%3CIf+truth+make+us+free;+ignorance+slaves%3CI+only+know+that+I+exist%3CMasters+of+the+truth+or+slaves+of+hypocrisy%3F%3CBeings+of+light+in+organic+startships%3CWake+up+Neo+.+.+.+.+.+.+.)](https://git.io/typing-svg)
 
-## Overview
-![GitHub Profile Access Counter](https://komarev.com/ghpvc/?username=imahian)
-[![Light Twitter follow badge](https://img.shields.io/twitter/follow/imahian?style=social#gh-light-mode-only)](https://twitter.com/imahian#gh-light-mode-only)
-[![Dark Twitter follow badge](https://img.shields.io/twitter/follow/imahian?style=dark#gh-dark-mode-only)](https://twitter.com/imahian#gh-dark-mode-only)
-<br>
+
+
+![snake gif](https://github.com/imahian/imahian/blob/output/github-snake-dark.svg)
+
 
 [![Light GitHub Trophy](https://github-profile-trophy.vercel.app/?username=imahian&theme=light#gh-light-mode-only)](https://github.com/imahian#gh-light-mode-only)
 [![Dark GitHub Trophy](https://github-profile-trophy.vercel.app/?username=imahian&theme=discord#gh-dark-mode-only)](https://github.com/imahian#gh-dark-mode-only)
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 
 
 #### Environments Skills
@@ -71,16 +73,36 @@
   </a>
 </p>
 
-![snake gif](https://github.com/imahian/imahian/blob/output/github-snake-dark.svg)
 
 #### Software Skills
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imahian&theme=shadow_green" alt="GitHub Streak Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imahian&show_icons=true&theme=shadow_green" alt="GitHub Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imahian&layout=compact&theme=shadow_green" alt="Top Langs">
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/imahian/count.svg" alt="Visitor Count">
+</p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imahian&show_icons=true&theme=shadow_green)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Imahian&theme=shadow_green)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imahian&layout=compact&theme=shadow_green)
+
+
+
+
+
 
 
 
