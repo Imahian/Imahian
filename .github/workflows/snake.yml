@@ -10,13 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repositorio
+      - name: generate-snake-game-from-github-contribution-grid
         uses: actions/checkout@v3
 
       - name: Generar Snake Game
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3.2.0
         with:
-          imahian: ${{ github.repository_owner }}
+          imahian: ${{ github.imahian }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
