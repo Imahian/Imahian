@@ -1,13 +1,14 @@
 name: Generate Snake Game
 
 on:
-  schedule: # Ejecuta el flujo diariamente a las 00:00 UTC
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub Actions
+  schedule: 
+    - cron: "0 0 * * *"  # Ejecuta el flujo diariamente a las 00:00 UTC
+  workflow_dispatch:  # Permite ejecutarlo manualmente desde GitHub Actions
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repositorio
         uses: actions/checkout@v3
@@ -21,8 +22,10 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Subir resultado al repositorio
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-artifacts
-          path: dist/
-
+        run: |
+          mkdir -p dist  # Asegura que el directorio 'dist' exista
+          mv dist/github-snake.svg dist/github-snake.svg  # Verifica la ubicación correcta
+          mv dist/github-snake-dark.svg dist/github-snake-dark.svg
+          git add dist/github-snake.svg dist/github-snake-dark.svg
+          git commit -m "Agregar imágenes de Snake generadas automáticamente"
+          git push origin main
