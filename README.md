@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://profile-counter.glitch.me/imahian/count.svg" alt="Visitor Count">
-</p>
 
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF73A&width=666&height=37&separator=%3C&lines=Feel+more;+Think+less%3CPain+is+inevitable;+suffering+optional%3CIf+truth+make+us+free;+ignorance+slaves%3CI+only+know+that+I+exist%3CMasters+of+the+truth+or+slaves+of+hypocrisy%3F%3CBeings+of+light+in+organic+startships%3CWake+up+Neo+.+.+.+.+.+.+.)](https://git.io/typing-svg)
@@ -94,6 +91,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/imahian/count.svg" alt="Visitor Count">
+</p>
 
 
 
