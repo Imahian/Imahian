@@ -8,7 +8,7 @@
 
 
 [![Light GitHub Trophy](https://github-profile-trophy.vercel.app/?username=imahian&theme=light#gh-light-mode-only)](https://github.com/imahian#gh-light-mode-only)
-[![Dark GitHub Trophy](https://github-profile-trophy.vercel.app/?username=imahian&theme=discord#gh-dark-mode-only)](https://github.com/imahian#gh-dark-mode-only)
+[![Dark GitHub Trophy](https://github-profile-trophy.vercel.app/?username=imahian&theme=matrix#gh-dark-mode-only)](https://github.com/imahian#gh-dark-mode-only)
 
 
 
