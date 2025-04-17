@@ -75,12 +75,27 @@
 
 #### Software Skills
 
-#### Badges
-<p align="left">
-  <a href="https://x.com/imahian" target="_blank" rel="noreferrer">
-    <img src="https://academy.hackthebox.com/achievement/badge/f66f0d64-9317-11ef-864f-bea50ffe6cb4" alt="Academician" width="40" height="40"/>
+
+  <h2 style="text-align: center;">Badges</h2>
+
+<p align="center">
+  <a href="https://academy.hackthebox.com/achievement/badge/aaeceed6-aeed-11ef-864f-bea50ffe6cb4" target="_blank" rel="noreferrer">
+    <img src="https://academy.hackthebox.com/storage/badges/ready-to-hunt-bugs-for-fund-and-profit.png" alt="BugHunter" width="40" height="40"/>
+  </a>
+   <a href="https://academy.hackthebox.com/achievement/badge/5563d2da-aaee-11ef-864f-bea50ffe6cb4" target="_blank" rel="noreferrer">
+    <img src="https://academy.hackthebox.com/storage/badges/the-hunt-is-on.png" alt="HuntOn" width="40" height="40"/>
+  </a>
+   <a href="https://academy.hackthebox.com/achievement/badge/2625bc2b-ae0e-11ef-864f-bea50ffe6cb4" target="_blank" rel="noreferrer">
+    <img src="https://academy.hackthebox.com/storage/badges/stand-above-all.png" alt="StandAbove" width="40" height="40"/>
+  </a>
+   <a href="https://academy.hackthebox.com/achievement/badge/3b80c2b9-ae11-11ef-864f-bea50ffe6cb4" target="_blank" rel="noreferrer">
+    <img src="https://academy.hackthebox.com/storage/badges/the-protector-of-security.png" alt="ProtectorOfSec" width="40" height="40"/>
+  </a>
+   <a href="https://academy.hackthebox.com/achievement/badge/55082029-aedf-11ef-864f-bea50ffe6cb4" target="_blank" rel="noreferrer">
+    <img src="https://academy.hackthebox.com/storage/badges/38f420076471d88c3d5f5d0db423cca1/logo.png" alt="SOCanalyst" width="40" height="40"/>
   </a>
 </p>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imahian&theme=shadow_green" alt="GitHub Streak Stats">
