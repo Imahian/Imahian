@@ -74,6 +74,14 @@
 
 
 #### Software Skills
+
+#### Badges
+<p align="left">
+  <a href="https://x.com/imahian" target="_blank" rel="noreferrer">
+    <img src="https://academy.hackthebox.com/achievement/badge/f66f0d64-9317-11ef-864f-bea50ffe6cb4" alt="Academician" width="40" height="40"/>
+  </a>
+</p>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imahian&theme=shadow_green" alt="GitHub Streak Stats">
 </div>
