@@ -13,7 +13,8 @@
 
 
 
-#### Environments Skills
+<h2 style="text-align: center;">Environments Skills</h2>
+
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -25,8 +26,8 @@
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
   
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <a href="https://www.torproject.org/download/" target="_blank" rel="noreferrer">
+    <img src="https://www.logo.wine/a/logo/Tor_(anonymity_network)/Tor_(anonymity_network)-Logo.wine.svg" alt="tor" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -34,23 +35,17 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  <a href="https://www.php.net/downloads.php" target="_blank" rel="noreferrer">
+    <img src="https://www.logo.wine/a/logo/PHP/PHP-Logo.wine.svg" alt="php" width="40" height="40"/>
   </a>
-  <a href="hexo.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
+  <a href="https://www.redhat.com/" target="_blank" rel="noreferrer">
+    <img src="https://external-content.duckduckgo.com/ip3/www.redhat.com.ico" alt="redhat" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -58,23 +53,127 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/>
+  </a>
+    <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer">
+    <img src="https://www.logo.wine/a/logo/SQLite/SQLite-Logo.wine.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
+  <a href="https://nvim.org" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/6471485?s=48&v=4" alt="neovim" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+
+
+  
 </p>
 
+ 
+<h2 style="text-align: center;">Software Skills</h2>
 
-#### Software Skills
+<p align="left">
+  <a href="https://nmap.org" target="_blank" rel="noreferrer">
+    <img src="https://nmap.org/images/sitelogo-2x.png" alt="nmap" width="40" height="40"/>
+  </a>
 
+  <a href="https://www.wireshark.org" target="_blank" rel="noreferrer">
+    <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" alt="wireshark" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.maltego.com" target="_blank" rel="noreferrer">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.dr-farfar.com%2Fwp-content%2Fuploads%2F2020%2F12%2FMaltego-Logo.png" alt="maltego" width="40" height="40"/>
+  </a>
+
+  <a href="https://netexec.wiki/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/144470396?s=48&v=4" alt="netexec" width="40" height="40"/>
+  </a>
+
+  <a href="https://docs.projectdiscovery.io/tools/nuclei" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/50994705?s=200&v=4" alt="nuclei" width="40" height="40"/>
+  </a>
+
+   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="burpsuite" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/6716868?s=200&v=4" alt="owasp" width="40" height="40"/>
+  </a>
+
+  <a href="http://sqlmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sqlmap_logo.png/800px-Sqlmap_logo.png?20180709082002" alt="sqlmap" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/s0md3v/XSStrike" target="_blank" rel="noreferrer">
+    <img src="https://image.ibb.co/cpuYoA/xsstrike-logo.png" alt="xsstrike" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/ffuf/ffuf" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/42502069?s=200&v=4" alt="ffuf" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+    <img src="https://external-content.duckduckgo.com/ip3/www.metasploit.com.ico" alt="metasploit" width="40" height="40"/>
+  </a>
+
+  <a href="https://beefproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/beefproject/beef/wiki/Images/logo.png" alt="BeEF" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.cobaltstrike.com/" target="_blank" rel="noreferrer">
+    <img src="https://external-content.duckduckgo.com/ip3/www.cobaltstrike.com.ico" alt="cobalStrike" width="40" height="40"/>
+  </a>
+
+ <a href="https://aircrack-ng.org/" target="_blank" rel="noreferrer">
+    <img src="https://gitlab.com/uploads/-/system/project/avatar/11903453/kali-aircrack-ng.png?width=48" alt="aircrack" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.openwall.com/john/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/1268598?v=4" alt="John" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/vanhauser-thc/thc-hydra/refs/heads/master/hydra-logo.ico" alt="hydra" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.nsa.gov/ghidra" target="_blank" rel="noreferrer">
+    <img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="Ghidra" width="40" height="40"/>
+  </a>
+
+  <a href="https://imhex.werwolv.net/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/WerWolv/ImHex/raw/master/resources/dist/common/logo/ImHexLogoSVGBG.svg" alt="imhex" width="40" height="40"/>
+  </a>
+
+  <a href="http://volatilityfoundation.org/" target="_blank" rel="noreferrer">
+    <img src="https://volatilityfoundation.org/wp-content/uploads/2023/12/Volatility-newest-png-crop.png" alt="volatility" width="40" height="40"/>
+  </a>
+
+  <a href="http://www.sleuthkit.org/autopsy/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/866922?s=48&v=4" alt="autopsy" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.radare.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/radareorg/radare2/blob/master/doc/images/r2emoji.png" alt="radare2" width="40" height="40"/>
+  </a>
+
+  <a href="https://bloodhoundenterprise.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/SpecterOps/BloodHound/raw/main/cmd/ui/public/img/logo-secondary-transparent-full.svg" alt="bloodhound" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.shodan.io/" target="_blank" rel="noreferrer">
+    <img src="https://external-content.duckduckgo.com/ip3/www.shodan.io.ico" alt="autopsy" width="40" height="40"/>
+  </a>
+
+ <a href="https://owasp.org/www-project-amass/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/128647419?s=200&v=4" alt="autopsy" width="40" height="40"/>
+  </a>
+  
+</p>
 
   <h2 style="text-align: center;">Badges</h2>
 
