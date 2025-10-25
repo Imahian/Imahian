@@ -149,7 +149,7 @@
   </a>
 
   <a href="https://www.nsa.gov/ghidra" target="_blank" rel="noreferrer">
-    <img src="https://ghidra-sre.org/images/GHIDRA_1.png" alt="Ghidra" width="40" height="40"/>
+    <img src="https://imgs.search.brave.com/GoIz_RQCXKKumnfOyogNltNZWxJPVtK5xNe2WNxN8dk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aXBz/bWFrZS5jb20vZGF0/YS9pbWFnZXMvZmlu/ZC1vdXQtYWJvdXQt/Z2hpZHJhLW5zYXMt/cG93ZXJmdWwtY3li/ZXJzZWN1cml0eS10/b29sLXBpY3R1cmUt/MS1DcmtuMzFaeE0u/anBn" alt="Ghidra" width="40" height="40"/>
   </a>
 
   <a href="https://imhex.werwolv.net/" target="_blank" rel="noreferrer">
@@ -173,7 +173,7 @@
   </a>
 
   <a href="https://www.shodan.io/" target="_blank" rel="noreferrer">
-    <img src="https://external-content.duckduckgo.com/ip3/www.shodan.io.ico" alt="autopsy" width="40" height="40"/>
+    <img src="https://www.shodan.io/static/img/logo-6abcc86b.png" alt="autopsy" width="40" height="40"/>
   </a>
 
  <a href="https://owasp.org/www-project-amass/" target="_blank" rel="noreferrer">
@@ -221,8 +221,9 @@
 
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/imahian/count.svg" alt="Visitor Count">
+  <img src="https://komarev.com/ghpvc/?username=imahian&color=brightgreen&style=plastic" alt="Counter" />
 </p>
+
 
 
 
