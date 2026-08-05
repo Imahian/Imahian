@@ -1,0 +1,45 @@
+- main [ref=e3]:
+  - img "imahian" [ref=e5]
+  - heading "imahian" [level=1] [ref=e6]: imahian imahian imahian
+  - paragraph [ref=e7]: "|"
+  - region "Main links" [ref=e8]:
+    - link "CrypWear crypwear.shop" [ref=e9] [cursor=pointer]:
+      - /url: https://crypwear.shop/
+      - img [ref=e11]
+      - generic [ref=e13]:
+        - generic [ref=e14]: CrypWear
+        - generic [ref=e15]: crypwear.shop
+    - link "Hacking Server discord.gg/qnFFdgnc22" [ref=e16] [cursor=pointer]:
+      - /url: https://discord.gg/qnFFdgnc22
+      - img [ref=e18]
+      - generic [ref=e20]:
+        - generic [ref=e21]: Hacking Server
+        - generic [ref=e22]: discord.gg/qnFFdgnc22
+    - link "CON+CIENCIA Rap · discord.gg/BckTWWMU" [ref=e23] [cursor=pointer]:
+      - /url: https://discord.gg/BckTWWMU
+      - img [ref=e25]
+      - generic [ref=e27]:
+        - generic [ref=e28]: CON+CIENCIA
+        - generic [ref=e29]: Rap · discord.gg/BckTWWMU
+  - navigation "Social media" [ref=e30]:
+    - link "Instagram" [ref=e31] [cursor=pointer]:
+      - /url: https://instagram.com/imahian
+      - img [ref=e32]
+    - link "YouTube" [ref=e34] [cursor=pointer]:
+      - /url: https://youtube.com/@imahian
+      - img [ref=e35]
+    - link "TikTok" [ref=e37] [cursor=pointer]:
+      - /url: https://tiktok.com/@imahian
+      - img [ref=e38]
+    - link "Snapchat" [ref=e40] [cursor=pointer]:
+      - /url: https://snapchat.com/add/imahian
+      - img [ref=e41]
+    - link "X" [ref=e43] [cursor=pointer]:
+      - /url: https://x.com/imahian
+      - img [ref=e44]
+    - link "GitHub" [ref=e46] [cursor=pointer]:
+      - /url: https://github.com/imahian
+      - img [ref=e47]
+    - link "Telegram" [ref=e49] [cursor=pointer]:
+      - /url: https://t.me/imahian
+      - img [ref=e50]

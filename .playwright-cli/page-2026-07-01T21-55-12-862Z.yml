@@ -1,0 +1,495 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#imahian-notes"
+  - banner [ref=e3]:
+    - navigation "Header" [ref=e4]:
+      - img [ref=e188] [cursor=pointer]
+      - generic [ref=e8]:
+        - generic [ref=e191]: imahian // notes
+        - generic:
+          - generic: Home
+      - img [ref=e193] [cursor=pointer]
+      - dialog:
+        - search:
+          - generic [ref=e13]:
+            - textbox "Search" [ref=e14]
+            - img [ref=e196] [cursor=pointer]
+            - navigation "Search":
+              - link "Share":
+                - /url: https://imahian.github.io/Notes/?q=
+                - img
+              - button "Clear":
+                - img
+          - generic [ref=e18]: Type to start searching
+  - generic [ref=e38]:
+    - main [ref=e39]:
+      - generic [ref=e40]:
+        - navigation "Navigation" [ref=e44]:
+          - generic [ref=e198] [cursor=pointer]:
+            - link "imahian // notes" [ref=e199]:
+              - /url: .
+              - img "logo" [ref=e200]
+            - text: imahian // notes
+          - link "Imahian/Notes 1 0" [ref=e202] [cursor=pointer]:
+            - /url: https://github.com/Imahian/Notes
+            - img [ref=e204]
+            - generic [ref=e206]:
+              - text: Imahian/Notes
+              - list [ref=e494]:
+                - listitem [ref=e495]: "1"
+                - listitem [ref=e496]: "0"
+          - list [ref=e45]:
+            - listitem [ref=e46]:
+              - generic [ref=e208]: Home
+              - navigation "Table of contents" [ref=e210]:
+                - generic [ref=e211] [cursor=pointer]: Table of contents
+                - list [ref=e213]:
+                  - listitem [ref=e214]:
+                    - link "What's here" [ref=e215] [cursor=pointer]:
+                      - /url: "#whats-here"
+                      - generic [ref=e216]: What's here
+                  - listitem [ref=e217]:
+                    - link "Platforms covered" [ref=e218] [cursor=pointer]:
+                      - /url: "#platforms-covered"
+                      - generic [ref=e219]: Platforms covered
+                  - listitem [ref=e220]:
+                    - link "Certifications tracked" [ref=e221] [cursor=pointer]:
+                      - /url: "#certifications-tracked"
+                      - generic [ref=e222]: Certifications tracked
+            - listitem [ref=e223]:
+              - generic [ref=e225]: CTFs
+              - navigation "CTFs" [ref=e227]:
+                - generic [ref=e228] [cursor=pointer]: CTFs
+                - list [ref=e230]:
+                  - listitem [ref=e231]:
+                    - link "Overview" [ref=e232] [cursor=pointer]:
+                      - /url: CTFs/
+                      - generic [ref=e233]: Overview
+                  - listitem [ref=e234]:
+                    - generic [ref=e236]: HackTheBox
+                    - navigation "HackTheBox" [ref=e238]:
+                      - generic [ref=e239] [cursor=pointer]: HackTheBox
+                      - list [ref=e241]:
+                        - listitem [ref=e242]:
+                          - link "Overview" [ref=e243] [cursor=pointer]:
+                            - /url: CTFs/HTB/
+                            - generic [ref=e244]: Overview
+                        - listitem [ref=e245]:
+                          - generic [ref=e247]: Machines
+                          - navigation "Machines" [ref=e249]:
+                            - generic [ref=e250] [cursor=pointer]: Machines
+                            - list [ref=e252]:
+                              - listitem [ref=e253]:
+                                - link "Overview" [ref=e254] [cursor=pointer]:
+                                  - /url: CTFs/HTB/MACHINES/
+                                  - generic [ref=e255]: Overview
+                              - listitem [ref=e256]:
+                                - link "Spectra" [ref=e257] [cursor=pointer]:
+                                  - /url: CTFs/HTB/MACHINES/Spectra/
+                                  - generic [ref=e258]: Spectra
+                        - listitem [ref=e259]:
+                          - generic [ref=e261]: Academy
+                          - navigation "Academy" [ref=e263]:
+                            - generic [ref=e264] [cursor=pointer]: Academy
+                            - list [ref=e266]:
+                              - listitem [ref=e267]:
+                                - link "Overview" [ref=e268] [cursor=pointer]:
+                                  - /url: CTFs/HTB/ACADEMY/
+                                  - generic [ref=e269]: Overview
+                              - listitem [ref=e270]:
+                                - generic [ref=e272]: Bug Bounty Hunter
+                                - navigation "Bug Bounty Hunter" [ref=e274]:
+                                  - generic [ref=e275] [cursor=pointer]: Bug Bounty Hunter
+                                  - list [ref=e277]:
+                                    - listitem [ref=e278]:
+                                      - link "Overview" [ref=e279] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/
+                                        - generic [ref=e280]: Overview
+                                    - listitem [ref=e281]:
+                                      - link "Attacking with Ffuf" [ref=e282] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/Attacking%20Web%20Applications%20with%20Ffuf/
+                                        - generic [ref=e283]: Attacking with Ffuf
+                                    - listitem [ref=e284]:
+                                      - link "Broken Authentication" [ref=e285] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/Broken%20Authentication/
+                                        - generic [ref=e286]: Broken Authentication
+                                    - listitem [ref=e287]:
+                                      - link "Bug Bounty Process" [ref=e288] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/Bug%20Bounty%20Hunting%20Process/
+                                        - generic [ref=e289]: Bug Bounty Process
+                                    - listitem [ref=e290]:
+                                      - link "Command Injections" [ref=e291] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/Command%20Injections/
+                                        - generic [ref=e292]: Command Injections
+                                    - listitem [ref=e293]:
+                                      - link "XSS" [ref=e294] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/Cross-Site%20Scripting%20%28XSS%29/
+                                        - generic [ref=e295]: XSS
+                                    - listitem [ref=e296]:
+                                      - link "File Inclusion" [ref=e297] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/File%20Inclusion/
+                                        - generic [ref=e298]: File Inclusion
+                                    - listitem [ref=e299]:
+                                      - link "File Upload Attacks" [ref=e300] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/File%20Upload%20Attacks/
+                                        - generic [ref=e301]: File Upload Attacks
+                                    - listitem [ref=e302]:
+                                      - link "Hacking WordPress" [ref=e303] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/Hacking%20WordPress/
+                                        - generic [ref=e304]: Hacking WordPress
+                                    - listitem [ref=e305]:
+                                      - link "Info Gathering Web" [ref=e306] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/Information%20Gathering%20-%20Web%20Edition/
+                                        - generic [ref=e307]: Info Gathering Web
+                                    - listitem [ref=e308]:
+                                      - link "Intro to Web Apps" [ref=e309] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/Introduction%20to%20Web%20Applications/
+                                        - generic [ref=e310]: Intro to Web Apps
+                                    - listitem [ref=e311]:
+                                      - link "JS Deobfuscation" [ref=e312] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/JavaScript%20Deobfuscation/
+                                        - generic [ref=e313]: JS Deobfuscation
+                                    - listitem [ref=e314]:
+                                      - link "Login Brute Forcing" [ref=e315] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/Login%20Brute%20Forcing/
+                                        - generic [ref=e316]: Login Brute Forcing
+                                    - listitem [ref=e317]:
+                                      - link "SQL Injection" [ref=e318] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/SQL%20Injection%20Fundamentals/
+                                        - generic [ref=e319]: SQL Injection
+                                    - listitem [ref=e320]:
+                                      - link "SQLMap" [ref=e321] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/SQLMap%20Essentials/
+                                        - generic [ref=e322]: SQLMap
+                                    - listitem [ref=e323]:
+                                      - link "Server-side Attacks" [ref=e324] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/Server-side%20Attacks/
+                                        - generic [ref=e325]: Server-side Attacks
+                                    - listitem [ref=e326]:
+                                      - link "Session Security" [ref=e327] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/Session%20Security/
+                                        - generic [ref=e328]: Session Security
+                                    - listitem [ref=e329]:
+                                      - link "Web Proxies" [ref=e330] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/Using%20Web%20Proxies/
+                                        - generic [ref=e331]: Web Proxies
+                                    - listitem [ref=e332]:
+                                      - link "Web Attacks" [ref=e333] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/Web%20Attacks/
+                                        - generic [ref=e334]: Web Attacks
+                                    - listitem [ref=e335]:
+                                      - link "Web Service API" [ref=e336] [cursor=pointer]:
+                                        - /url: CTFs/HTB/ACADEMY/Bug%20Bounty%20Hunter/Web%20Service%20%26%20API%20Attacks/
+                                        - generic [ref=e337]: Web Service API
+                  - listitem [ref=e338]:
+                    - generic [ref=e340]: OverTheWire
+                    - navigation "OverTheWire" [ref=e342]:
+                      - generic [ref=e343] [cursor=pointer]: OverTheWire
+                      - list [ref=e345]:
+                        - listitem [ref=e346]:
+                          - link "Overview" [ref=e347] [cursor=pointer]:
+                            - /url: CTFs/OTW/
+                            - generic [ref=e348]: Overview
+                        - listitem [ref=e349]:
+                          - link "Bandit" [ref=e350] [cursor=pointer]:
+                            - /url: CTFs/OTW/Bandit/
+                            - generic [ref=e351]: Bandit
+                        - listitem [ref=e352]:
+                          - link "Behemoth" [ref=e353] [cursor=pointer]:
+                            - /url: CTFs/OTW/Behemoth/
+                            - generic [ref=e354]: Behemoth
+                        - listitem [ref=e355]:
+                          - link "Drifter" [ref=e356] [cursor=pointer]:
+                            - /url: CTFs/OTW/Drifter/
+                            - generic [ref=e357]: Drifter
+                        - listitem [ref=e358]:
+                          - link "FormulaOne" [ref=e359] [cursor=pointer]:
+                            - /url: CTFs/OTW/FormulaOne/
+                            - generic [ref=e360]: FormulaOne
+                        - listitem [ref=e361]:
+                          - link "Krypton" [ref=e362] [cursor=pointer]:
+                            - /url: CTFs/OTW/Krypton/
+                            - generic [ref=e363]: Krypton
+                        - listitem [ref=e364]:
+                          - link "Leviathan" [ref=e365] [cursor=pointer]:
+                            - /url: CTFs/OTW/Leviathan/
+                            - generic [ref=e366]: Leviathan
+                        - listitem [ref=e367]:
+                          - link "Manpage" [ref=e368] [cursor=pointer]:
+                            - /url: CTFs/OTW/Manpage/
+                            - generic [ref=e369]: Manpage
+                        - listitem [ref=e370]:
+                          - link "Maze" [ref=e371] [cursor=pointer]:
+                            - /url: CTFs/OTW/Maze/
+                            - generic [ref=e372]: Maze
+                        - listitem [ref=e373]:
+                          - link "Narnia" [ref=e374] [cursor=pointer]:
+                            - /url: CTFs/OTW/Narnia/
+                            - generic [ref=e375]: Narnia
+                        - listitem [ref=e376]:
+                          - link "Natas" [ref=e377] [cursor=pointer]:
+                            - /url: CTFs/OTW/Natas/
+                            - generic [ref=e378]: Natas
+                        - listitem [ref=e379]:
+                          - link "Utumno" [ref=e380] [cursor=pointer]:
+                            - /url: CTFs/OTW/Utumno/
+                            - generic [ref=e381]: Utumno
+                        - listitem [ref=e382]:
+                          - link "Vortex" [ref=e383] [cursor=pointer]:
+                            - /url: CTFs/OTW/Vortex/
+                            - generic [ref=e384]: Vortex
+                  - listitem [ref=e385]:
+                    - link "TryHackMe" [ref=e386] [cursor=pointer]:
+                      - /url: CTFs/THM/
+                      - generic [ref=e387]: TryHackMe
+                  - listitem [ref=e388]:
+                    - link "VulnHub" [ref=e389] [cursor=pointer]:
+                      - /url: CTFs/VHB/
+                      - generic [ref=e390]: VulnHub
+            - listitem [ref=e391]:
+              - generic [ref=e393]: Certs
+              - navigation "Certs" [ref=e395]:
+                - generic [ref=e396] [cursor=pointer]: Certs
+                - list [ref=e398]:
+                  - listitem [ref=e399]:
+                    - link "Overview" [ref=e400] [cursor=pointer]:
+                      - /url: Certs/
+                      - generic [ref=e401]: Overview
+                  - listitem [ref=e402]:
+                    - generic [ref=e404]: eJPT
+                    - navigation "eJPT" [ref=e406]:
+                      - generic [ref=e407] [cursor=pointer]: eJPT
+                      - list [ref=e409]:
+                        - listitem [ref=e410]:
+                          - link "Overview" [ref=e411] [cursor=pointer]:
+                            - /url: Certs/eJPT/
+                            - generic [ref=e412]: Overview
+                        - listitem [ref=e413]:
+                          - generic [ref=e415]: Assessment Methodologies
+                          - navigation "Assessment Methodologies" [ref=e417]:
+                            - generic [ref=e418] [cursor=pointer]: Assessment Methodologies
+                            - list [ref=e420]:
+                              - listitem [ref=e421]:
+                                - link "Overview" [ref=e422] [cursor=pointer]:
+                                  - /url: Certs/eJPT/Assessment_Methodologies/
+                                  - generic [ref=e423]: Overview
+                              - listitem [ref=e424]:
+                                - link "Reconocimiento" [ref=e425] [cursor=pointer]:
+                                  - /url: Certs/eJPT/Assessment_Methodologies/Reconocimiento/
+                                  - generic [ref=e426]: Reconocimiento
+                  - listitem [ref=e427]:
+                    - link "eMAPT" [ref=e428] [cursor=pointer]:
+                      - /url: Certs/eMAPT/
+                      - generic [ref=e429]: eMAPT
+                  - listitem [ref=e430]:
+                    - link "eEDA" [ref=e431] [cursor=pointer]:
+                      - /url: Certs/eEDA/
+                      - generic [ref=e432]: eEDA
+                  - listitem [ref=e433]:
+                    - link "ICCA" [ref=e434] [cursor=pointer]:
+                      - /url: Certs/ICCA/
+                      - generic [ref=e435]: ICCA
+                  - listitem [ref=e436]:
+                    - link "eCIR" [ref=e437] [cursor=pointer]:
+                      - /url: Certs/eCIR/
+                      - generic [ref=e438]: eCIR
+                  - listitem [ref=e439]:
+                    - link "eCPPT" [ref=e440] [cursor=pointer]:
+                      - /url: Certs/eCPPT/
+                      - generic [ref=e441]: eCPPT
+                  - listitem [ref=e442]:
+                    - link "eWPTX" [ref=e443] [cursor=pointer]:
+                      - /url: Certs/eWPTX/
+                      - generic [ref=e444]: eWPTX
+                  - listitem [ref=e445]:
+                    - link "eCDFP" [ref=e446] [cursor=pointer]:
+                      - /url: Certs/eCDFP/
+                      - generic [ref=e447]: eCDFP
+                  - listitem [ref=e448]:
+                    - link "eWPT" [ref=e449] [cursor=pointer]:
+                      - /url: Certs/eWPT/
+                      - generic [ref=e450]: eWPT
+                  - listitem [ref=e451]:
+                    - link "eCTHP" [ref=e452] [cursor=pointer]:
+                      - /url: Certs/eCTHP/
+                      - generic [ref=e453]: eCTHP
+            - listitem [ref=e454]:
+              - generic [ref=e456]: Tools
+              - navigation "Tools" [ref=e458]:
+                - generic [ref=e459] [cursor=pointer]: Tools
+                - list [ref=e461]:
+                  - listitem [ref=e462]:
+                    - link "dnsdumpster" [ref=e463] [cursor=pointer]:
+                      - /url: Tools/dnsdumpster/
+                      - generic [ref=e464]: dnsdumpster
+                  - listitem [ref=e465]:
+                    - link "Sublist3r" [ref=e466] [cursor=pointer]:
+                      - /url: Tools/Sublist3r/
+                      - generic [ref=e467]: Sublist3r
+                  - listitem [ref=e468]:
+                    - link "HTTrack" [ref=e469] [cursor=pointer]:
+                      - /url: Tools/HTTrack/
+                      - generic [ref=e470]: HTTrack
+                  - listitem [ref=e471]:
+                    - link "WHOIS" [ref=e472] [cursor=pointer]:
+                      - /url: Tools/WHOIS/
+                      - generic [ref=e473]: WHOIS
+                  - listitem [ref=e474]:
+                    - link "DNSRecon" [ref=e475] [cursor=pointer]:
+                      - /url: Tools/DNSRecon-Slayer/
+                      - generic [ref=e476]: DNSRecon
+                  - listitem [ref=e477]:
+                    - link "Netcraft" [ref=e478] [cursor=pointer]:
+                      - /url: Tools/Netcraft/
+                      - generic [ref=e479]: Netcraft
+                  - listitem [ref=e480]:
+                    - link "WafW00f" [ref=e481] [cursor=pointer]:
+                      - /url: Tools/WafW00f/
+                      - generic [ref=e482]: WafW00f
+            - listitem [ref=e483]:
+              - generic [ref=e485]: CVEs
+              - navigation "CVEs" [ref=e487]:
+                - generic [ref=e488] [cursor=pointer]: CVEs
+                - list [ref=e490]:
+                  - listitem [ref=e491]:
+                    - link "Overview" [ref=e492] [cursor=pointer]:
+                      - /url: CVEs/
+                      - generic [ref=e493]: Overview
+        - article [ref=e63]:
+          - heading "imahian // notes ¶" [level=1] [ref=e64]:
+            - text: imahian // notes
+            - link "¶" [ref=e65] [cursor=pointer]:
+              - /url: "#imahian-notes"
+          - paragraph [ref=e66]: Personal knowledge base for offensive security — CTF writeups, certification notes, CVE research, and tool references.
+          - paragraph [ref=e67]:
+            - text: "Join the hacking community:"
+            - strong [ref=e68]:
+              - link "discord.gg/qnFFdgnc22" [ref=e69] [cursor=pointer]:
+                - /url: https://discord.gg/qnFFdgnc22
+          - separator [ref=e70]
+          - heading "What's here ¶" [level=2] [ref=e71]:
+            - text: What's here
+            - link "¶" [ref=e72] [cursor=pointer]:
+              - /url: "#whats-here"
+          - table [ref=e75]:
+            - rowgroup [ref=e76]:
+              - row "Section Description" [ref=e77]:
+                - columnheader "Section" [ref=e78]
+                - columnheader "Description" [ref=e79]
+            - rowgroup [ref=e80]:
+              - row "CTFs Writeups for HackTheBox, OverTheWire, TryHackMe, VulnHub" [ref=e81]:
+                - cell "CTFs" [ref=e82]:
+                  - strong [ref=e83]: CTFs
+                - cell "Writeups for HackTheBox, OverTheWire, TryHackMe, VulnHub" [ref=e84]
+              - row "Certs Study notes across eJPT, OSCP, eCPPT, and more" [ref=e85]:
+                - cell "Certs" [ref=e86]:
+                  - strong [ref=e87]: Certs
+                - cell "Study notes across eJPT, OSCP, eCPPT, and more" [ref=e88]
+              - row "Tools Quick reference for recon and exploitation tools" [ref=e89]:
+                - cell "Tools" [ref=e90]:
+                  - strong [ref=e91]: Tools
+                - cell "Quick reference for recon and exploitation tools" [ref=e92]
+              - row "CVEs CVE research, PoC notes, and analysis" [ref=e93]:
+                - cell "CVEs" [ref=e94]:
+                  - strong [ref=e95]: CVEs
+                - cell "CVE research, PoC notes, and analysis" [ref=e96]
+          - separator [ref=e97]
+          - heading "Platforms covered ¶" [level=2] [ref=e98]:
+            - text: Platforms covered
+            - link "¶" [ref=e99] [cursor=pointer]:
+              - /url: "#platforms-covered"
+          - paragraph [ref=e100]:
+            - strong [ref=e101]: HackTheBox
+            - text: — Machines (Linux & Windows full pwn chains), Challenges (crypto, reversing, forensics, pwn, web, OSINT), Academy (structured modules from beginner to advanced), Pro Labs (enterprise-level network labs), and Battlegrounds (competitive real-time hacking).
+          - paragraph [ref=e102]:
+            - strong [ref=e103]: OverTheWire
+            - text: — Wargames covering Linux fundamentals (Bandit), binary exploitation (Narnia, Leviathan, Behemoth), web security (Natas), cryptography (Krypton), advanced exploitation (Drifter, FormulaOne, Maze, Vortex, Utumno), and more.
+          - paragraph [ref=e104]:
+            - strong [ref=e105]: TryHackMe
+            - text: — Guided rooms and learning paths for beginner to intermediate topics.
+          - paragraph [ref=e106]:
+            - strong [ref=e107]: VulnHub
+            - text: — Offline VM challenges for full penetration test practice.
+          - separator [ref=e108]
+          - heading "Certifications tracked ¶" [level=2] [ref=e109]:
+            - text: Certifications tracked
+            - link "¶" [ref=e110] [cursor=pointer]:
+              - /url: "#certifications-tracked"
+          - paragraph [ref=e111]:
+            - strong [ref=e112]: eLearnSecurity / INE
+            - code [ref=e113]: eJPT
+            - code [ref=e114]: eCPPT
+            - code [ref=e115]: eWPT
+            - code [ref=e116]: eWPTX
+            - code [ref=e117]: eMAPT
+            - code [ref=e118]: eCIR
+            - code [ref=e119]: eCTHP
+            - code [ref=e120]: eCDFP
+            - code [ref=e121]: eEDA
+            - code [ref=e122]: ICCA
+          - paragraph [ref=e123]:
+            - strong [ref=e124]: Offensive Security
+            - code [ref=e125]: OSCP
+            - code [ref=e126]: OSEP
+            - code [ref=e127]: OSWE
+            - code [ref=e128]: OSED
+            - code [ref=e129]: OSDA
+            - code [ref=e130]: OSWA
+            - code [ref=e131]: OSMR
+          - paragraph [ref=e132]:
+            - strong [ref=e133]: TCM Security
+            - code [ref=e134]: PNPT
+            - code [ref=e135]: PJPT
+            - code [ref=e136]: PMMA
+          - paragraph [ref=e137]:
+            - strong [ref=e138]: HackTheBox
+            - code [ref=e139]: CPTS
+            - code [ref=e140]: CBBH
+            - code [ref=e141]: CDSA
+            - code [ref=e142]: CWEE
+          - paragraph [ref=e143]:
+            - strong [ref=e144]: SANS / GIAC
+            - code [ref=e145]: GPEN
+            - code [ref=e146]: GWAPT
+            - code [ref=e147]: GXPN
+            - code [ref=e148]: GCIH
+            - code [ref=e149]: GREM
+            - code [ref=e150]: GCIA
+            - code [ref=e151]: GCFA
+            - code [ref=e152]: GNFA
+          - paragraph [ref=e153]:
+            - strong [ref=e154]: EC-Council
+            - code [ref=e155]: CEH
+            - code [ref=e156]: CPENT
+            - code [ref=e157]: CHFI
+            - code [ref=e158]: LPT
+          - paragraph [ref=e159]:
+            - strong [ref=e160]: CompTIA
+            - code [ref=e161]: Security+
+            - code [ref=e162]: PenTest+
+            - code [ref=e163]: CySA+
+            - code [ref=e164]: CASP+
+          - paragraph [ref=e165]:
+            - strong [ref=e166]: Altered Security / Zero-Point Security
+            - code [ref=e167]: CRTP
+            - code [ref=e168]: CRTE
+            - code [ref=e169]: CRTO
+            - code [ref=e170]: CRTM
+          - paragraph [ref=e171]:
+            - strong [ref=e172]: Microsoft
+            - code [ref=e173]: SC-200
+            - code [ref=e174]: AZ-500
+            - code [ref=e175]: MS-500
+          - paragraph [ref=e176]:
+            - strong [ref=e177]: AWS
+            - code [ref=e178]: Security Specialty
+          - separator [ref=e179]
+          - blockquote [ref=e180]:
+            - paragraph [ref=e181]: All content is for educational and authorized testing purposes only.
+      - button "Back to top":
+        - img
+        - text: Back to top
+    - contentinfo [ref=e182]
+  - generic [ref=e183]:
+    - generic [ref=e184]: ">_"
+    - generic [ref=e186]: "IP: 208.125.51.79 // TYPE: IPv4 // COUNTRY: United States // REGION: New York // CITY: Fort Drum // ISP: Charter Communications INC // LAT: 44.0580482 // LON: -75.7487779 // TZ: America/New_York // BROWSER: Chrome // OS: Linux // DEVICE: Desktop // IP: 208.125.51.79 // TYPE: IPv4 // COUNTRY: United States // REGION: New York // CITY: Fort Drum // ISP: Charter Communications INC // LAT: 44.0580482 // LON: -75.7487779 // TZ: America/New_York // BROWSER: Chrome // OS: Linux // DEVICE: Desktop //"

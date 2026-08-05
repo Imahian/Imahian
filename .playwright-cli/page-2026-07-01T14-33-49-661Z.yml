@@ -1,0 +1,51 @@
+- main [ref=e3]:
+  - img "imahian" [ref=e5]
+  - heading "imahian" [level=1] [ref=e6]: imahian imahian imahian
+  - paragraph [ref=e7]: "|"
+  - region "Main links" [ref=e8]:
+    - link "Notes HTB · THM · CTF Writeups" [ref=e9] [cursor=pointer]:
+      - /url: https://imahian.github.io/Notes/
+      - img [ref=e11]
+      - generic [ref=e13]:
+        - generic [ref=e14]: Notes
+        - generic [ref=e15]: HTB · THM · CTF Writeups
+    - link "NFT apparel Crypto fashion & web3 drops" [ref=e16] [cursor=pointer]:
+      - /url: https://crypwear.shop/
+      - img [ref=e18]
+      - generic [ref=e20]:
+        - generic [ref=e21]: NFT apparel
+        - generic [ref=e22]: Crypto fashion & web3 drops
+    - link "Hacking Server CTF · Pentesting · Security" [ref=e23] [cursor=pointer]:
+      - /url: https://discord.gg/qnFFdgnc22
+      - img [ref=e25]
+      - generic [ref=e27]:
+        - generic [ref=e28]: Hacking Server
+        - generic [ref=e29]: CTF · Pentesting · Security
+    - link "CON+CIENCIA Rap underground · Letras" [ref=e30] [cursor=pointer]:
+      - /url: https://discord.gg/BckTWWMU
+      - img [ref=e32]
+      - generic [ref=e34]:
+        - generic [ref=e35]: CON+CIENCIA
+        - generic [ref=e36]: Rap underground · Letras
+  - navigation "Social media" [ref=e37]:
+    - link "Instagram" [ref=e38] [cursor=pointer]:
+      - /url: https://instagram.com/imahian
+      - img [ref=e39]
+    - link "YouTube" [ref=e41] [cursor=pointer]:
+      - /url: https://youtube.com/@imahian
+      - img [ref=e42]
+    - link "TikTok" [ref=e44] [cursor=pointer]:
+      - /url: https://tiktok.com/@imahian
+      - img [ref=e45]
+    - link "Snapchat" [ref=e47] [cursor=pointer]:
+      - /url: https://snapchat.com/add/imahian
+      - img [ref=e48]
+    - link "X" [ref=e50] [cursor=pointer]:
+      - /url: https://x.com/imahian
+      - img [ref=e51]
+    - link "GitHub" [ref=e53] [cursor=pointer]:
+      - /url: https://github.com/imahian
+      - img [ref=e54]
+    - link "Telegram" [ref=e56] [cursor=pointer]:
+      - /url: https://t.me/imahian
+      - img [ref=e57]

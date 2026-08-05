@@ -1,0 +1,207 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#imahian-notes"
+  - banner [ref=e3]:
+    - navigation "Header" [ref=e4]:
+      - img [ref=e188] [cursor=pointer]
+      - generic [ref=e8]:
+        - generic [ref=e191]: imahian // notes
+        - generic:
+          - generic: Home
+      - img [ref=e193] [cursor=pointer]
+      - dialog:
+        - search:
+          - generic [ref=e13]:
+            - textbox "Search" [ref=e14]
+            - img [ref=e196] [cursor=pointer]
+            - navigation "Search":
+              - link "Share":
+                - /url: https://imahian.github.io/Notes/?q=
+                - img
+              - button "Clear":
+                - img
+          - generic [ref=e18]: Type to start searching
+  - generic [ref=e38]:
+    - main [ref=e39]:
+      - generic [ref=e40]:
+        - navigation "Navigation" [ref=e44]:
+          - generic [ref=e198] [cursor=pointer]:
+            - link "imahian // notes" [ref=e199]:
+              - /url: .
+              - img "logo" [ref=e200]
+            - text: imahian // notes
+          - link "Imahian/Notes 1 0" [ref=e202] [cursor=pointer]:
+            - /url: https://github.com/Imahian/Notes
+            - img [ref=e204]
+            - generic [ref=e206]:
+              - text: Imahian/Notes
+              - list [ref=e242]:
+                - listitem [ref=e243]: "1"
+                - listitem [ref=e244]: "0"
+          - list [ref=e45]:
+            - listitem [ref=e46]:
+              - generic [ref=e208]: Home
+              - link "Home" [ref=e210] [cursor=pointer]:
+                - /url: .
+                - generic [ref=e211]: Home
+              - navigation "Table of contents" [ref=e212]:
+                - generic [ref=e213] [cursor=pointer]: Table of contents
+                - list [ref=e215]:
+                  - listitem [ref=e216]:
+                    - link "What's here" [ref=e217] [cursor=pointer]:
+                      - /url: "#whats-here"
+                      - generic [ref=e218]: What's here
+                  - listitem [ref=e219]:
+                    - link "Platforms covered" [ref=e220] [cursor=pointer]:
+                      - /url: "#platforms-covered"
+                      - generic [ref=e221]: Platforms covered
+                  - listitem [ref=e222]:
+                    - link "Certifications tracked" [ref=e223] [cursor=pointer]:
+                      - /url: "#certifications-tracked"
+                      - generic [ref=e224]: Certifications tracked
+            - listitem [ref=e225]:
+              - generic [ref=e227]: CTFs
+            - listitem [ref=e229]:
+              - generic [ref=e231]: Certs
+            - listitem [ref=e233]:
+              - generic [ref=e235]: Tools
+            - listitem [ref=e237]:
+              - generic [ref=e239]: CVEs
+        - article [ref=e63]:
+          - heading "imahian // notes ¶" [level=1] [ref=e64]:
+            - text: imahian // notes
+            - link "¶" [ref=e65] [cursor=pointer]:
+              - /url: "#imahian-notes"
+          - paragraph [ref=e66]: Personal knowledge base for offensive security — CTF writeups, certification notes, CVE research, and tool references.
+          - paragraph [ref=e67]:
+            - text: "Join the hacking community:"
+            - strong [ref=e68]:
+              - link "discord.gg/qnFFdgnc22" [ref=e69] [cursor=pointer]:
+                - /url: https://discord.gg/qnFFdgnc22
+          - separator [ref=e70]
+          - heading "What's here ¶" [level=2] [ref=e71]:
+            - text: What's here
+            - link "¶" [ref=e72] [cursor=pointer]:
+              - /url: "#whats-here"
+          - table [ref=e75]:
+            - rowgroup [ref=e76]:
+              - row "Section Description" [ref=e77]:
+                - columnheader "Section" [ref=e78]
+                - columnheader "Description" [ref=e79]
+            - rowgroup [ref=e80]:
+              - row "CTFs Writeups for HackTheBox, OverTheWire, TryHackMe, VulnHub" [ref=e81]:
+                - cell "CTFs" [ref=e82]:
+                  - strong [ref=e83]: CTFs
+                - cell "Writeups for HackTheBox, OverTheWire, TryHackMe, VulnHub" [ref=e84]
+              - row "Certs Study notes across eJPT, OSCP, eCPPT, and more" [ref=e85]:
+                - cell "Certs" [ref=e86]:
+                  - strong [ref=e87]: Certs
+                - cell "Study notes across eJPT, OSCP, eCPPT, and more" [ref=e88]
+              - row "Tools Quick reference for recon and exploitation tools" [ref=e89]:
+                - cell "Tools" [ref=e90]:
+                  - strong [ref=e91]: Tools
+                - cell "Quick reference for recon and exploitation tools" [ref=e92]
+              - row "CVEs CVE research, PoC notes, and analysis" [ref=e93]:
+                - cell "CVEs" [ref=e94]:
+                  - strong [ref=e95]: CVEs
+                - cell "CVE research, PoC notes, and analysis" [ref=e96]
+          - separator [ref=e97]
+          - heading "Platforms covered ¶" [level=2] [ref=e98]:
+            - text: Platforms covered
+            - link "¶" [ref=e99] [cursor=pointer]:
+              - /url: "#platforms-covered"
+          - paragraph [ref=e100]:
+            - strong [ref=e101]: HackTheBox
+            - text: — Machines (Linux & Windows full pwn chains), Challenges (crypto, reversing, forensics, pwn, web, OSINT), Academy (structured modules from beginner to advanced), Pro Labs (enterprise-level network labs), and Battlegrounds (competitive real-time hacking).
+          - paragraph [ref=e102]:
+            - strong [ref=e103]: OverTheWire
+            - text: — Wargames covering Linux fundamentals (Bandit), binary exploitation (Narnia, Leviathan, Behemoth), web security (Natas), cryptography (Krypton), advanced exploitation (Drifter, FormulaOne, Maze, Vortex, Utumno), and more.
+          - paragraph [ref=e104]:
+            - strong [ref=e105]: TryHackMe
+            - text: — Guided rooms and learning paths for beginner to intermediate topics.
+          - paragraph [ref=e106]:
+            - strong [ref=e107]: VulnHub
+            - text: — Offline VM challenges for full penetration test practice.
+          - separator [ref=e108]
+          - heading "Certifications tracked ¶" [level=2] [ref=e109]:
+            - text: Certifications tracked
+            - link "¶" [ref=e110] [cursor=pointer]:
+              - /url: "#certifications-tracked"
+          - paragraph [ref=e111]:
+            - strong [ref=e112]: eLearnSecurity / INE
+            - code [ref=e113]: eJPT
+            - code [ref=e114]: eCPPT
+            - code [ref=e115]: eWPT
+            - code [ref=e116]: eWPTX
+            - code [ref=e117]: eMAPT
+            - code [ref=e118]: eCIR
+            - code [ref=e119]: eCTHP
+            - code [ref=e120]: eCDFP
+            - code [ref=e121]: eEDA
+            - code [ref=e122]: ICCA
+          - paragraph [ref=e123]:
+            - strong [ref=e124]: Offensive Security
+            - code [ref=e125]: OSCP
+            - code [ref=e126]: OSEP
+            - code [ref=e127]: OSWE
+            - code [ref=e128]: OSED
+            - code [ref=e129]: OSDA
+            - code [ref=e130]: OSWA
+            - code [ref=e131]: OSMR
+          - paragraph [ref=e132]:
+            - strong [ref=e133]: TCM Security
+            - code [ref=e134]: PNPT
+            - code [ref=e135]: PJPT
+            - code [ref=e136]: PMMA
+          - paragraph [ref=e137]:
+            - strong [ref=e138]: HackTheBox
+            - code [ref=e139]: CPTS
+            - code [ref=e140]: CBBH
+            - code [ref=e141]: CDSA
+            - code [ref=e142]: CWEE
+          - paragraph [ref=e143]:
+            - strong [ref=e144]: SANS / GIAC
+            - code [ref=e145]: GPEN
+            - code [ref=e146]: GWAPT
+            - code [ref=e147]: GXPN
+            - code [ref=e148]: GCIH
+            - code [ref=e149]: GREM
+            - code [ref=e150]: GCIA
+            - code [ref=e151]: GCFA
+            - code [ref=e152]: GNFA
+          - paragraph [ref=e153]:
+            - strong [ref=e154]: EC-Council
+            - code [ref=e155]: CEH
+            - code [ref=e156]: CPENT
+            - code [ref=e157]: CHFI
+            - code [ref=e158]: LPT
+          - paragraph [ref=e159]:
+            - strong [ref=e160]: CompTIA
+            - code [ref=e161]: Security+
+            - code [ref=e162]: PenTest+
+            - code [ref=e163]: CySA+
+            - code [ref=e164]: CASP+
+          - paragraph [ref=e165]:
+            - strong [ref=e166]: Altered Security / Zero-Point Security
+            - code [ref=e167]: CRTP
+            - code [ref=e168]: CRTE
+            - code [ref=e169]: CRTO
+            - code [ref=e170]: CRTM
+          - paragraph [ref=e171]:
+            - strong [ref=e172]: Microsoft
+            - code [ref=e173]: SC-200
+            - code [ref=e174]: AZ-500
+            - code [ref=e175]: MS-500
+          - paragraph [ref=e176]:
+            - strong [ref=e177]: AWS
+            - code [ref=e178]: Security Specialty
+          - separator [ref=e179]
+          - blockquote [ref=e180]:
+            - paragraph [ref=e181]: All content is for educational and authorized testing purposes only.
+      - button "Back to top":
+        - img
+        - text: Back to top
+    - contentinfo [ref=e182]
+  - generic [ref=e183]:
+    - generic [ref=e184]: ">_"
+    - generic [ref=e186]: "IP: 208.125.51.79 // TYPE: IPv4 // COUNTRY: United States // REGION: New York // CITY: Fort Drum // ISP: Charter Communications INC // LAT: 44.0580482 // LON: -75.7487779 // TZ: America/New_York // BROWSER: Chrome // OS: Linux // DEVICE: Desktop // IP: 208.125.51.79 // TYPE: IPv4 // COUNTRY: United States // REGION: New York // CITY: Fort Drum // ISP: Charter Communications INC // LAT: 44.0580482 // LON: -75.7487779 // TZ: America/New_York // BROWSER: Chrome // OS: Linux // DEVICE: Desktop //"

@@ -1,0 +1,40 @@
+- main [ref=e3]:
+  - img "imahian" [ref=e5]
+  - heading "imahian" [level=1] [ref=e6]: imahian imahian imahian
+  - paragraph [ref=e7]: // root@world:~$
+  - navigation "Social links" [ref=e8]:
+    - link "Instagram @imahian" [ref=e9] [cursor=pointer]:
+      - /url: https://instagram.com/imahian
+      - img [ref=e11]
+      - generic [ref=e13]: Instagram
+      - generic [ref=e14]: "@imahian"
+    - link "YouTube @imahian" [ref=e15] [cursor=pointer]:
+      - /url: https://youtube.com/@imahian
+      - img [ref=e17]
+      - generic [ref=e19]: YouTube
+      - generic [ref=e20]: "@imahian"
+    - link "TikTok @imahian" [ref=e21] [cursor=pointer]:
+      - /url: https://tiktok.com/@imahian
+      - img [ref=e23]
+      - generic [ref=e25]: TikTok
+      - generic [ref=e26]: "@imahian"
+    - link "Snapchat @imahian" [ref=e27] [cursor=pointer]:
+      - /url: https://snapchat.com/add/imahian
+      - img [ref=e29]
+      - generic [ref=e31]: Snapchat
+      - generic [ref=e32]: "@imahian"
+    - link "X @imahian" [ref=e33] [cursor=pointer]:
+      - /url: https://x.com/imahian
+      - img [ref=e35]
+      - generic [ref=e37]: X
+      - generic [ref=e38]: "@imahian"
+    - link "GitHub @imahian" [ref=e39] [cursor=pointer]:
+      - /url: https://github.com/imahian
+      - img [ref=e41]
+      - generic [ref=e43]: GitHub
+      - generic [ref=e44]: "@imahian"
+    - link "Telegram @imahian" [ref=e45] [cursor=pointer]:
+      - /url: https://t.me/imahian
+      - img [ref=e47]
+      - generic [ref=e49]: Telegram
+      - generic [ref=e50]: "@imahian"

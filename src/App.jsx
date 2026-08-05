@@ -77,8 +77,8 @@ const MAIN_LINKS = [
 ]
 
 const SOCIAL = [
-  { label: 'Instagram', url: 'https://instagram.com/imahian',    accent: '#E1306C', Ico: Icon.Instagram },
-  { label: 'YouTube',   url: 'https://youtube.com/@imahian',     accent: '#FF0000', Ico: Icon.YouTube   },
+  { label: 'Instagram', url: 'https://instagram.com/im.ahian',    accent: '#E1306C', Ico: Icon.Instagram },
+  { label: 'YouTube',   url: 'https://youtube.com/@im.ahian',     accent: '#FF0000', Ico: Icon.YouTube   },
   { label: 'TikTok',   url: 'https://tiktok.com/@imahian',       accent: '#69C9D0', Ico: Icon.TikTok   },
   { label: 'Snapchat', url: 'https://snapchat.com/add/imahian',  accent: '#FFFC00', Ico: Icon.Snapchat  },
   { label: 'X',        url: 'https://x.com/imahian',             accent: '#ffffff', Ico: Icon.X         },
